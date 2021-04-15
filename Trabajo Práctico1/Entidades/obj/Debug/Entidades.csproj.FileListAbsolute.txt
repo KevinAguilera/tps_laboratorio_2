@@ -1,0 +1,6 @@
+C:\Users\Kevin\Desktop\Tecnicatura UTN\Programacion 2 - Laboratorio 2\Trabajo Práctico1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Kevin\Desktop\Tecnicatura UTN\Programacion 2 - Laboratorio 2\Trabajo Práctico1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Kevin\Desktop\Tecnicatura UTN\Programacion 2 - Laboratorio 2\Trabajo Práctico1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\Tecnicatura UTN\Programacion 2 - Laboratorio 2\Trabajo Práctico1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Tecnicatura UTN\Programacion 2 - Laboratorio 2\Trabajo Práctico1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Kevin\Desktop\Tecnicatura UTN\Programacion 2 - Laboratorio 2\Trabajo Práctico1\Entidades\obj\Debug\Entidades.pdb
