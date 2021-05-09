@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Entidades
 {
     /// <summary>
-    /// Clase derivada de Vehiculo
+    /// Clase derivada de Vehiculo.
     /// </summary>
     public class Ciclomotor : Vehiculo
     {
