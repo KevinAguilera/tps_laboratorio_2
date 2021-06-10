@@ -1,0 +1,17 @@
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\bin\Debug\FabricaDeHeladosyTortasHeladas.exe.config
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\bin\Debug\FabricaDeHeladosyTortasHeladas.exe
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\bin\Debug\FabricaDeHeladosyTortasHeladas.pdb
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\obj\Debug\FabricaDeHeladosyTortasHeladas.Properties.Resources.resources
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\obj\Debug\FabricaDeHeladosyTortasHeladas.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\obj\Debug\FabricaDeHeladosyTortasHeladas.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\obj\Debug\FabricaDeHeladosyTortasHeladas.exe
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\obj\Debug\FabricaDeHeladosyTortasHeladas.pdb
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\obj\Debug\FabricaDeHeladosyTortasHeladas.Form1.resources
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\bin\Debug\Entidades.dll
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\bin\Debug\Excepciones.dll
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\bin\Debug\Archivos.dll
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\bin\Debug\Entidades.pdb
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\bin\Debug\Excepciones.pdb
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\bin\Debug\Archivos.pdb
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\obj\Debug\FabricaDeHeladosyTortasHeladas.csproj.CopyComplete
+C:\Users\Kevin\Desktop\Aguilera.Kevin.2A.TP3\FabricaDeHeladosyTortasHeladas\obj\Debug\FabricaDeHeladosYTortasHeladas.csproj.AssemblyReference.cache
