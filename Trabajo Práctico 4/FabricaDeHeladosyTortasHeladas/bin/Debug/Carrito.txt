@@ -1,0 +1,86 @@
+----------PEDIDO 1-------------
+NOMBRE EMPLEADO: pepita
+PEDIDO
+Helado TAMAÑO: Pote45Kilos
+GUSTOS
+Mascarpone
+PRECIO: 4800
+
+
+
+----------PEDIDO 1-------------
+NOMBRE EMPLEADO: jorge
+PEDIDO
+Torta TAMAÑO: Individual
+GUSTOS
+Americana
+PRECIO: 120
+
+
+
+----------PEDIDO 2-------------
+NOMBRE EMPLEADO: martin
+PEDIDO
+Helado TAMAÑO: Pote20Kilos
+GUSTOS
+Mascarpone
+Frutilla
+PRECIO: 2000
+
+
+
+----------PEDIDO 3-------------
+NOMBRE EMPLEADO: kevin
+PEDIDO
+Helado TAMAÑO: Pote60Kilos
+GUSTOS
+Chocolate
+Tramontana
+Mascarpone
+Frutilla
+PRECIO: 6200
+
+
+
+----------PEDIDO 1-------------
+NOMBRE EMPLEADO: pepe
+PEDIDO
+Torta TAMAÑO: Entero
+GUSTOS
+Chocolate
+Tramontana
+PRECIO: 400
+
+
+
+----------PEDIDO 2-------------
+NOMBRE EMPLEADO: pepa
+PEDIDO
+Torta TAMAÑO: Individual
+GUSTOS
+Americana
+PRECIO: 120
+
+
+
+----------PEDIDO 1-------------
+NOMBRE EMPLEADO: AFAFAFA
+PEDIDO
+Helado TAMAÑO: Pote45Kilos
+GUSTOS
+Chocolate
+Tramontana
+PRECIO: 4800
+
+
+
+----------PEDIDO 1-------------
+NOMBRE EMPLEADO: melon
+PEDIDO
+Helado TAMAÑO: Pote30Kilos
+GUSTOS
+Americana
+PRECIO: 3200
+
+
+

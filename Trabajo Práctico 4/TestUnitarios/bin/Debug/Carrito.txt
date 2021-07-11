@@ -1,0 +1,59 @@
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Frutilla
+Chocolate
+Americana
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Frutilla
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+
+----------PEDIDO 0-------------
+NOMBRE EMPLEADO: Jorge
+PEDIDO
+
+----------PEDIDO 0-------------
+NOMBRE EMPLEADO: Jorge
+PEDIDO
+
+----------PEDIDO 0-------------
+NOMBRE EMPLEADO: Jorge
+PEDIDO
+

@@ -1,0 +1,517 @@
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PEDIDO:
+Torta TAMAÑO: Individual
+GUSTOS:
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PEDIDO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+Frutilla
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PEDIDO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+Frutilla
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PEDIDO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+Frutilla
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PEDIDO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+Frutilla
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PEDIDO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+Frutilla
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+Frutilla
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Helado Tamaño: Kilo
+GUSTOS:
+PRECIO FABRICACIÓN: 0
+
+
+Torta TAMAÑO: Entero
+GUSTOS:
+Americana
+Chocolate
+Frutilla
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Helado Tamaño: Kilo
+GUSTOS:
+PRECIO FABRICACIÓN: 0
+
+
+Torta TAMAÑO: Entero
+GUSTOS:
+Americana
+Chocolate
+Frutilla
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Helado Tamaño: Kilo
+GUSTOS:
+Frutilla
+Mascarpone
+PRECIO FABRICACIÓN: 0
+
+
+Torta TAMAÑO: Entero
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Helado Tamaño: Kilo
+GUSTOS:
+Frutilla
+Mascarpone
+PRECIO FABRICACIÓN: 0
+
+
+Torta TAMAÑO: Entero
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Helado Tamaño: Kilo
+GUSTOS:
+Frutilla
+Mascarpone
+PRECIO FABRICACIÓN: 0
+
+
+Torta TAMAÑO: Entero
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Helado Tamaño: Kilo
+GUSTOS:
+Frutilla
+Mascarpone
+PRECIO FABRICACIÓN: 0
+
+
+Torta TAMAÑO: Entero
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Helado Tamaño: Kilo
+GUSTOS:
+Frutilla
+Mascarpone
+PRECIO FABRICACIÓN: 0
+
+
+Torta TAMAÑO: Entero
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Helado Tamaño: Kilo
+GUSTOS:
+Frutilla
+Mascarpone
+PRECIO FABRICACIÓN: 0
+
+
+Torta TAMAÑO: Entero
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Entero
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Helado Tamaño: Kilo
+GUSTOS:
+Frutilla
+Mascarpone
+PRECIO FABRICACIÓN: 0
+
+
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Helado Tamaño: Kilo
+GUSTOS:
+Frutilla
+Mascarpone
+PRECIO FABRICACIÓN: 0
+
+
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Helado Tamaño: Kilo
+GUSTOS:
+Frutilla
+Mascarpone
+PRECIO FABRICACIÓN: 0
+
+
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Helado Tamaño: Kilo
+GUSTOS:
+Frutilla
+Mascarpone
+PRECIO FABRICACIÓN: 0
+
+
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Helado Tamaño: Kilo
+GUSTOS:
+Frutilla
+Mascarpone
+PRECIO FABRICACIÓN: 0
+
+
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
+----------PEDIDO 0-------------
+NOMBRE CLIENTE: Jorge
+PRODUCTO:
+Torta TAMAÑO: Individual
+GUSTOS:
+Americana
+Chocolate
+PRECIO FABRICACIÓN: 0
+
+
+
